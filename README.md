@@ -1,12 +1,14 @@
 # student-command-center
 It's a app for making students to organize their works more structurally 
 
-#📌Overview
+📌Overview
+
 Student Command Center is an all-in-one productivity platform designed to help students manage their academic life efficiently. It centralizes notes, assignments, projects, deadlines, revision planning, and personal learning resources into a single organized workspace.
 
 The goal is to reduce stress caused by scattered information and help students stay productive, organized, and focused throughout their academic journey
 
-#❓Problem Statement
+❓Problem Statement
+
 ->Many students struggle with:
 
 ->Managing notes from multiple subjects
@@ -23,7 +25,8 @@ The goal is to reduce stress caused by scattered information and help students s
 
 As a result, students often waste time searching for information instead of learning
 
-#💡Solution
+💡Solution
+
 Student Command Center acts as a centralized academic dashboard where students can:
 
 ->Store and organize notes
@@ -40,7 +43,8 @@ Student Command Center acts as a centralized academic dashboard where students c
 
 Everything is available in one place, making learning more structured and efficient
 
-#🎯Target Users
+🎯Target Users
+
 ->School Students
 
 ->College Students
@@ -51,7 +55,8 @@ Everything is available in one place, making learning more structured and effici
 
 ->Study Groups
 
-#✨Key Features
+✨Key Features
+
 📝Smart Notes Management
 
 ->Subject-wise note organization
@@ -100,7 +105,8 @@ Everything is available in one place, making learning more structured and effici
 
 ->Productivity insights
 
-#🏗️ System Workflow
+🏗️ System Workflow
+
 1.Student creates an account.
 
 2.Student adds subjects and courses.
@@ -114,7 +120,8 @@ Everything is available in one place, making learning more structured and effici
 6.Dashboard displays progress and upcoming activities
 
 
-#🛠️ Tech Stack
+🛠️ Tech Stack
+
 #Frontend
 
 ->React
@@ -146,7 +153,8 @@ Everything is available in one place, making learning more structured and effici
 ->Study Recommendation Engine
 
 
-#🚧Challenges Face
+🚧Challenges Face
+
 ->Managing large amounts of student data
 
 ->Creating an intuitive user interface
@@ -156,7 +164,8 @@ Everything is available in one place, making learning more structured and effici
 ->Designing personalized study workflows
 
 
-#🌟Future Enhancements
+🌟Future Enhancements
+
 ->AI-powered revision plans
 
 ->Smart note summarization
@@ -171,6 +180,7 @@ Everything is available in one place, making learning more structured and effici
 
 
 #📈 Impact
+
 Student Command Center helps students:
 
 ->Save time
